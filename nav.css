@@ -1,0 +1,32 @@
+.navbar{
+	background-color: white;/*la couleur de fond de la div*/
+	display: flex; 	/*la possibilité de changer les bloc HTML comme l'on veut*/
+	justify-content: space-between; /*écarter les composant d'un coté à l'autre de la page*/
+	align-items: center;
+	box-shadow: 0px	/*droite gauche*/  2px /*haut et bas*/ 10px /*diffusion*/ grey/*couleur*/;
+}
+
+.logo{
+		text-decoration: none;	/*pas de changement de couleur pour le lien*/
+}
+img{
+	height: 70px;/*largeur*/
+	width: 	70px; /*hauteur*/
+	object-fit: cover;	/*proportion de l'image*/
+}
+
+/*boutton*/
+.link{
+	text-decoration: none;
+	padding: 15px; /*taille du texte*/
+	margin: 20px; /*écart à gauche et à droite du bloc*/
+	color: white; /*couleur du text*/
+	font-size:14px; 
+	background-color: blue;
+	font-family: Ariel; /*police du texte*/
+	border-radius: 4px;
+}
+
+.link:hover{
+	background-color: green; /*change couleur du bloc quand on passe la souris dessus*/
+}
