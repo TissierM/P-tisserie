@@ -1,21 +1,28 @@
+
 body {
-background-image:url(https://github.com/TissierM/P-tisserie/blob/master/image/test_bis.png);
-background-size: cover;
-max-width: 200px;
-height: 200px;
-display: block;
-text-align: center;
-align-content: center;
-align-items: center;
-margin: 8px;
+	background-image:url(https://github.com/TissierM/P-tisserie/blob/master/image/test_bis.png;
+	text-align: center;
 }
 
 .bloc_background{
 	text-align: center;
 	background-color: pink;
 	align-items: center;
-	padding: 10px;
+	padding: 30px;
     margin-top: 20px;
     border-radius: 100px;
-    margin: 30px;
+    margin: 70px;
+}
+
+.bloc_content{
+	text-align: center;
+	align-items: center;
+	padding: 10px;
+  	margin-top: 20px;
+	border-radius: 100px;
+	margin: 30px;
+}
+
+.nav_bar{
+	background-color: pink;
 }
