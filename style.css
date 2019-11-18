@@ -1,4 +1,48 @@
 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 2px 10px grey;
+  background-color: pink;
+}
+
+
+.logo {
+  text-decoration: none;
+
+
+}
+
+.logo > img {
+  border-radius: 50%;
+  max-width: 85px;
+  height: 85px;
+}
+
+.link {
+  text-decoration: none;
+  margin: 20px;
+  padding: 15px;
+  background: lightblue;
+  color: white;
+  font-size: 14px;
+  font-family: Arial;
+  border-radius: 4px;
+}
+
+.link:hover {
+  background-color: pink;
+}
+
+.img-carrousel {
+  height:70vh;
+  object-fit: cover;
+
+}
+  
+
+
 body {
 	background-image:url(image/image_background_2.png);
 	text-align: center;
