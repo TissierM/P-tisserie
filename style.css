@@ -1,6 +1,6 @@
 
 body {
-	background-image:url(image/test_bis.png);
+	background-image:url("image/test_bis.png");
 	text-align: center;
 }
 
