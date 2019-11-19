@@ -28,8 +28,8 @@ body {
   height: 333px;
   align-items: center;
   position: relative;
-  overflow: hidden; 
-  left: 18%;
+  overflow: hidden;
+  display : inline-block;
  
 }
 
