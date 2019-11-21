@@ -1,3 +1,12 @@
+  
+.card-img-top{
+  height: 30vh;
+  object-fit: cover;
+}
+
+.img-fit{
+  
+}
 
 .bloc_background{
 	text-align: center;
@@ -64,3 +73,24 @@ body {
   background-color: pink;
 }
 
+p{
+  font-family: 'Itim', cursive;
+}
+
+h1{
+  font-family: 'Titan One', cursive;
+  
+}
+
+h2{
+  font-family: 'Titan One', cursive;
+}
+
+.ligne{
+  border: 1px solid #d19797;
+  margin: 40px;
+}
+
+.people_values{
+  margin-top: 30px;
+}
