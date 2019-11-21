@@ -33,6 +33,10 @@ body {
  
 }
 
+.card{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
 
 .link {
   text-decoration: none;
