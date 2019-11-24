@@ -1,21 +1,52 @@
   
+  
 .card-img-top{
   height: 30vh;
   object-fit: cover;
 }
 
-.img-fit{
-  
+.picture-staff{
+ height: 200px;
+  width: 200px;
 }
+
+.list-unstyled{
+  margin-left: 180px;
+  margin-right: 180px;  
+}
+
+.picture_claudine{
+  margin-left: 180px;
+  margin-right: 180px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.picture_jonathan{
+  margin-left: 180px;
+  margin-right: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.picture_perrine{
+  margin-left: 180px;
+  margin-right: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
 
 .bloc_background{
 	text-align: center;
 	background-color: pink;
 	align-items: center;
 	padding: 30px;
-  margin-top: 20px;
+  margin-top: 10px;
   border-radius: 100px;
-  margin: 70px;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding-top: 20px;
 }
 
 .bloc_content{
@@ -73,6 +104,10 @@ body {
   background-color: pink;
 }
 
+iframe{
+  margin-bottom: 60px;
+}
+
 p{
   font-family: 'Itim', cursive;
 }
@@ -93,4 +128,12 @@ h2{
 
 .people_values{
   margin-top: 30px;
+}
+
+p{
+
+}
+
+h2{
+
 }
