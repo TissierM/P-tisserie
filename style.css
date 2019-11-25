@@ -19,7 +19,6 @@
   width: 200px;
 }
 
-
 .picture_claudine{
   margin-left: 180px;
   margin-right: 180px;
@@ -27,6 +26,7 @@
   justify-content: space-between;
   margin-top: 50px;
 }
+
 .picture_jonathan{
   margin-left: 180px;
   margin-right: 180px;
@@ -63,6 +63,7 @@
 	margin: 30px;
 }
 
+/*conflit?*/
 body {
   background-image:url(image/colorful_doughnuts.jpg);
   text-align: center;
