@@ -19,6 +19,7 @@
   width: 200px;
 }
 
+
 .picture_claudine{
   margin-left: 180px;
   margin-right: 180px;
@@ -63,7 +64,7 @@
 }
 
 body {
-  background-image:url(image/image_background_2.png);
+  background-image:url(image/colorful_doughnuts.jpg);
   text-align: center;
 }
 
