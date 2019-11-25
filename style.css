@@ -63,7 +63,14 @@
 	margin: 30px;
 }
 
-/*conflit?*/
+.picture-staff{
+  height: 200px;
+  width: 200px;
+}
+.typeform-widget{
+  margin-top: 60px;
+}
+
 body {
   background-image:url(image/colorful_doughnuts.jpg);
   text-align: center;
